@@ -1,8 +1,7 @@
 # 呼吸机数据集
 
 ## 项目描述
-本项目包含为医学呼吸机数据集用于医疗研究和分析。这些数据集旨在帮助医疗专业人员更好地理解患者的健康状况和呼吸机的性能。
-
+本项目包含为医学呼吸机数据集用于医疗研究和分析，这些数据集为AI驱动的呼吸机临床决策支持研究而设计，旨在提升医疗决策的准确性和效率。
 
 ## 文件结构
 ├─  README.md         # 项目说明文件
@@ -60,7 +59,7 @@
 # Ventilator Dataset
 
 ## Project Description
-This project contains medical ventilator datasets for healthcare research and analysis. These datasets are designed to help medical professionals better understand patient health conditions and the performance of ventilators.
+This project encompasses a medical ventilator dataset for healthcare research and analysis. These datasets are specifically tailored for AI-driven research in clinical decision support for ventilators, with the goal of improving the precision and efficiency of medical decision-making.
 
 ## File Structure
 ├── README.md         # Project documentation file
