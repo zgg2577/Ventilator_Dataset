@@ -22,7 +22,7 @@
 ## 申请方式
 1. **授权**: 只有获得相应权限的人员才能访问这些数据。
 2. **申请流程**:
-   - **发送申请**: 需要发送访问申请至[管理员邮箱](mailto:zhaoweiyi2577@outlook.com)，包括申请人的详细信息、申请目的、预期使用数据的时间段等。
+   - **发送申请**: 需要发送访问申请至[邮箱](mailto:734001472@shsmu.edu.cn)，包括申请人的详细信息、申请目的、预期使用数据的时间段等。
    - **审核**: 申请将由数据管理小组进行审核，确保申请符合隐私保护和数据使用政策。
    - **签署协议**: 审核通过后，申请人将获得数据的访问权限。
    - 
@@ -80,7 +80,7 @@ These datasets are associated through the following fields:
 ## Application Method
 1. **Authorization**: Only authorized personnel can access these data.
 2. **Application Process**:
-   - **Submit Application**: An access request must be sent to the [administrator's email](mailto:zhaoweiyi2577@outlook.com), including the applicant's detailed information, purpose of application, and the expected period of data usage.
+   - **Submit Application**: An access request must be sent to the [administrator's email](mailto:734001472@shsmu.edu.cn), including the applicant's detailed information, purpose of application, and the expected period of data usage.
    - **Review**: The application will be reviewed by the data management team to ensure compliance with privacy protection and data usage policies.
    - **Sign Agreement**: After the review is passed, the applicant will be granted access to the data.
 
