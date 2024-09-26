@@ -23,7 +23,7 @@
 ## 申请方式
 1. **授权**: 只有获得相应权限的人员才能访问这些数据。
 2. **申请流程**:
-   - **发送申请**: 需要发送访问申请至[管理员邮箱](zhaoweiyi2577@outlook.com)，包括申请人的详细信息、申请目的、预期使用数据的时间段等。
+   - **发送申请**: 需要发送访问申请至[管理员邮箱](mailto:zhaoweiyi2577@outlook.com)，包括申请人的详细信息、申请目的、预期使用数据的时间段等。
    - **审核**: 申请将由数据管理小组进行审核，确保申请符合隐私保护和数据使用政策。
    - **签署协议**: 审核通过后，申请人将获得数据的访问权限。
    - 
@@ -45,9 +45,9 @@
 
 ## 贡献指南
 - 如果您希望为该项目做出贡献，请提交Pull Request或创建Issue。
-- 
+  
 ## 联系方式
-- **技术支持邮箱**: [管理员邮箱](zhaoweiyi2577@outlook.com)
+- **技术支持邮箱**: [管理员邮箱](mailto:zhaoweiyi2577@outlook.com)
 
 ## 依赖
 - 该项目可能需要以下依赖，请确保您的系统已安装：
@@ -69,7 +69,7 @@ This project contains medical ventilator datasets for healthcare research and an
 ---
 ├── Discrete_Data.csv # Contains detailed ventilator discrete data (such as breathing patterns), intermittent data (such as minute ventilation, respiratory rate, etc.) and corresponding parameter settings
 ---
-└── Continuous_Data.csv # Continuous data (such as airway pressure, flow rate, tidal volume waveform data) (not uploaded)
+└── Continuous_Data.csv # Continuous data (such as airway pressure, flow rate, tidal volume waveform data) (coming soon)
 ---
 
 ## Data Association
@@ -81,7 +81,7 @@ These datasets are associated through the following fields:
 ## Application Method
 1. **Authorization**: Only authorized personnel can access these data.
 2. **Application Process**:
-   - **Submit Application**: An access request must be sent to the [administrator's email](zhaoweiyi2577@outlook.com), including the applicant's detailed information, purpose of application, and the expected period of data usage.
+   - **Submit Application**: An access request must be sent to the [administrator's email](mailto:zhaoweiyi2577@outlook.com), including the applicant's detailed information, purpose of application, and the expected period of data usage.
    - **Review**: The application will be reviewed by the data management team to ensure compliance with privacy protection and data usage policies.
    - **Sign Agreement**: After the review is passed, the applicant will be granted access to the data.
 
@@ -105,7 +105,7 @@ Access to these data is granted after the application is approved, and we will s
 - If you wish to contribute to this project, please submit a Pull Request or create an Issue.
 
 ## Contact Information
-- **Technical Support Email**: [Administrator's Email](zhaoweiyi2577@outlook.com)
+- **Technical Support Email**: [Administrator's Email](mailto:zhaoweiyi2577@outlook.com)
 
 ## Dependencies
 - This project may require the following dependencies, please ensure your system has them installed:
